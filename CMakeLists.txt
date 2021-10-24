@@ -1,6 +1,7 @@
 cmake_minimum_required(VERSION 3.16)
 project(ProjectName)
 set(CMAKE_CXX_STANDARD 17)
-add_executable(allocation_basics ./allocation_basics/main.cpp)
+add_executable(allocation_basics ./allocation_basics/main.cpp lab2/src/main.cpp lab2/include/functions.h lab2/include/functions.cpp)
 add_executable(simpleCalc simpleCalc/src/main.cpp simpleCalc/include/calc.cpp simpleCalc/include/calc.h)
 add_executable(firstLibCall firstLib/include/lib.h firstLib/src/lib.cpp firstLibCall/main.cpp)
+add_executable(lab2 lab2/include/functions.h lab2/include/functions.cpp lab2/src/main.cpp)
