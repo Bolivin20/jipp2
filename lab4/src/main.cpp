@@ -3,29 +3,26 @@
 //
 
 #include <iostream>
+#include "../include/lab4.h"
 
 using namespace std;
-
-using namespace std;
-
-struct bnowy{
-    string marka;
-    string model;
-    int rok;
-    string kolor;
-};
 
 int main() {
-    bnowy samochod[] = {{"opel","astra",1999,"szary"},
-                        {"opel","corsa",2003,"bialy"},
-                        {"opel","meriva",2001,"szary"},
-                        {"opel","forsa",2010,"czrany"}
-                        };
-    cout << "Marka\tModel \tRok \tKolor" << endl;
-    cout << "----------------------------------" << endl;
-    for (int i = 0; i < 4; i++)
+    int a;
+    cout << "podaj liczbe samochodow" <<endl;
+    cin >> a;
+    bnowy samochod[10];
+     cout << "podaj marke, model, rok, kolor, cene:"<<endl;
+    for (int i = 0; i < a; i++)
     {
-        cout << samochod[i].marka << "\t" << samochod[i].model << "\t" << samochod[i].rok << "\t" << samochod[i].kolor << endl;
+        cin >> samochod[i].marka >> samochod[i].model >> samochod[i].rok >> samochod[i].kolor >> samochod[i].cena;
     }
-
+    cout << "Marka\tModel \tRok \tKolor \t Cena" << endl;
+    cout << "----------------------------------" << endl;
+    for (int i = 0; i < a; i++)
+    {
+        cout << samochod[i].marka << "\t" << samochod[i].model << "\t" << samochod[i].rok << "\t" << samochod[i].kolor << "\t"<< samochod[i].cena<< endl;
+    }
+    cout <<"Aut tej samej marki:" << fun_sam(samochod,a) << endl;
+    cout << "Najmlodsze auto:" << fun_rok(samochod,a) << endl;
 }
