@@ -1,0 +1,36 @@
+Cene drukarki obnizono o 20%, a nastepnie nowa cene obnizono o 10%. W wyniku obu tych
+zmian cena drukarki zmniejszyla sie w stosunku do ceny sprzed obu obnizek o:
+A. 18%      B. 28%      C. 30%      D. 72%
+Rownanie  (x^2 - 7x)/(x^2 -49) = 0 ma w zbiorze liczb rzeczywistych dokladnie
+A. jedno rozwiazanie.   B. dwa rozwiazania.      C. trzy rozwiazania.   D. cztery rozwiazania.
+
+Srednia arytmetyczna czterech liczb dodatnich: 2, 3x, 3x + 2, 3x + 4 jest rowna 13/2.
+Wynika stad, ze
+A. x=9      B. x =13/2      C. x =5/9       D. x=2
+Liczba 78 stanowi 150% liczby c. Wtedy liczba c jest rowna
+A. 60       B. 52       C. 48       D. 39
+
+Prosta przechodzaca przez punkty (-4 , -1) oraz (5, 5) ma rownanie
+A. y= x + 3   B. y= 2/3x + 5/3   C. y= x - 3   D. y= 2x + 11
+
+Jeden z bokow rownolegloboku ma dlugosc rowna 5. Przekatne tego rownolegloboku moga
+miec dlugosci
+A. 4 i 6        B. 4 i 3        C. 10 i 10      D. 5 i 5
+Obrazem prostej o rownaniu x - 2y + 3 = 0 w symetrii osiowej wzgledem osi Oy jest prosta
+o rownaniu
+A. -x + 2y + 3 = 0      B. -x + 2y - 3 = 0       C. x + 2y - 3 = 0        D. x + 2y + 3 = 0
+Graniastoslup prawidlowy ma 36 krawedzi. Dlugosc kazdej z tych krawedzi jest rowna 4.
+Pole powierzchni bocznej tego graniastoslupa jest rowne
+A. 176      B. 192      C. 224      D. 288
+W pudelku znajduja sie plytki z literami. Na kazdej plytce jest wydrukowana jedna litera - spolgloskowa albo samogloskowa. Plytek z literami spolgloskowymi jest o 25% wiecej niz
+plytek z literami samogloskowymi. Losujemy jedna plytke. Prawdopodobienstwo wylosowania plytki z litera samogloskowa jest rowne
+A. 0,75       B. 0,25        C. 4/9       D. 5/9
+Wszystkich liczb naturalnych trzycyfrowych, wiekszych od 700, w ktorych kazda cyfra nalezy
+do zbioru {1, 2, 3, 7, 8, 9} i zadna cyfra sie nie powtarza, jest
+A. 108      B. 60       C. 40       D. 299
+Z wierzcholkow szescianu ABCDEFGH losujemy jednoczesnie dwa rozne wierzcholki.Prawdopodobienstwo tego, ze
+wierzcholki te beda koncami przekatnej szescianu ABCDEFGH, jest rowne
+A. 1/7      B. 4/7      C. 1/14         D. 3/7
+Ile jest wszystkich czterocyfrowych liczb naturalnych mniejszych niz 2017?
+
+A. 2016         B. 2017         C. 1016         D. 1017
