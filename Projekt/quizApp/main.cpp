@@ -12,8 +12,6 @@
 #include <fstream>
 #include <cstdlib>
 #include <string>
-#include <locale>
-#include <conio.h>
 #include <ctime>
 #include <vector>
 using namespace std;
@@ -27,7 +25,7 @@ int main(int argc,char * argv[]) {
     int randomowa;
     double n = 3.0;
     cout<<"\nWitamy w quizie zadan z matury podstawowej z matematyki!"<<endl;
-    //cout << "Nazwa uzytkownika: "<< argv[1];
+    cout << "Nazwa uzytkownika:  "<< argv[1]<<endl;
     int iteracja =0;
     while(1){
     srand(time(NULL));
